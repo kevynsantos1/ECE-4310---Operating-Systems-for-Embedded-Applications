@@ -1,0 +1,1 @@
+In this program we learn about schedulers. We used queues to create a round robin scheduler. This scheduler basically starts with a process, lets it run for 1 time unit, then moves to the next and does the same until all processes are done.
