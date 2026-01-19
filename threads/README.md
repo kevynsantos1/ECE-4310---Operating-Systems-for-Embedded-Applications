@@ -1,0 +1,2 @@
+In these exercises we learn how to use threads. I learned that threads need functions to be bale to do things. we also need our argument variable. In one of the exercises we learn at higher loop counts some machines 
+cannot finish within their time slices which leads to incorrect operation. We also learn about mutex locks to ensure that variables are correctly changed. Mutex locks allow for different threads to change the same variable safely.
